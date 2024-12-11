@@ -4,7 +4,9 @@ I'm Srikanth, and engineer and roboticist particularly interested in mobile robo
 
 My most recent project [frontier_toolbox](https://github.com/Schelbert197/frontier_toolbox/tree/main) is designed to study robot exploration while also making it easy and approachable!
 
-I attended Northwestern University to pursue my MS in Robotics degree, and will soon be working as an Autonomy Engineer at Carnegie-Mellon's Software Engineering Institute as a part of their AI division. I'm always interested in cool new projects and would be happy to try out new ideas!
+I attended Northwestern University to pursue my MS in Robotics degree, and will soon be working as an Autonomy Engineer at Carnegie-Mellon's Software Engineering Institute as a part of their AI division. Previously, I worked as an engineer at [Gather AI](https://www.gather.ai/) deploying drones in warehouses to automate inventory.
+
+I'm always interested in cool new projects and would be happy to try out new ideas!
 <!--
 **Schelbert197/Schelbert197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
